@@ -5,3 +5,8 @@
 # Assign 8 (int value) to 'c' variable;
 
 # Print the result of that expression 'https://github.com/Final-PythonFoundationHomework/variables_and_types/blob/main/README.md#begin08';
+a = 24
+b = 3
+c = 5
+k = ((a*b)/c)
+print(k)
